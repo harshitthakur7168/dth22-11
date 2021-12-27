@@ -5,3 +5,4 @@ We all want some gadgets to get to know about some of our home specifications an
 Here i plant to make some circuits which will assist us to live a life on CHILL mode.
 Ranging from temperature and humidity sensor to sensor that waters your plants automatically. So that you dont waste time on unnecessary things.
 
+![Screenshot 2021-12-27 202122](https://user-images.githubusercontent.com/96690206/147482878-034f384a-a680-4269-b545-be355dac169b.png)
