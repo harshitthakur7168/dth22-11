@@ -1,4 +1,4 @@
-# PROJECT HOME AUTOMATION
+# Humidity and temperature sensor
 HUMIDITY & TEMPERATURE SENSOR WITH LCD 
 
 We all want some gadgets to get to know about some of our home specifications and that too on our phone so that we dont have to move. With the advent of technology more and more gadgets are being made to make human life stress free and efoortless. Ranging from turning AC while at work so that you come back home to a perfect temperature to feeding for pets and even watering plants accordin to their needs.
